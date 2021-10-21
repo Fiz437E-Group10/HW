@@ -1,6 +1,6 @@
 # HW1
 Group Members:
 
-Serhat Beyaz KÖROĞLU
-Ömer Faruk GÜLEÇ
-İsmail Deniz GÜN
+Serhat Beyaz KÖROĞLU <br /> 
+Ömer Faruk GÜLEÇ <br /> 
+İsmail Deniz GÜN <br /> 
